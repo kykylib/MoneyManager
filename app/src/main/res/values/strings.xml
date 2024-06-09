@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Money Manager</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="no_account_register">Don\'t have an account? Register</string>
+    <string name="money_manager">Money Manager</string>
+    <string name="full_name_hint" />
+    <string name="confirm_password_hint" />
+    <string name="sign_up" />
+    <string name="user_name">User name</string>
+
+</resources>
